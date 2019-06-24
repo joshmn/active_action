@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "A tidy DSL to express batch actions"
   spec.description   = "A tidy DSL to express batch actions"
-  spec.homepage      = "https://github.com/joshmn/activeaction"
+  spec.homepage      = "https://github.com/joshmn/active_action"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
