@@ -29,7 +29,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'rails', '>= 3.0'
   spec.add_development_dependency "bundler", "~> 1.16"
-  spec.add_development_dependency "rake", "~> 10.0"
+  spec.add_development_dependency "rake", "~> 13.0"
   spec.add_development_dependency 'rails', '>= 5.1.6'
   spec.add_development_dependency 'capybara'
   spec.add_development_dependency 'simplecov'
